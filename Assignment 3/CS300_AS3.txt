@@ -1,4 +1,4 @@
-g=> Introduction:
+=>Introduction:
 
   The Google Search, a phenomenon that very computer scientist can be proud of. The Google search is the
   culmination and intersection of many different domains in computer science, in order to operate at the
